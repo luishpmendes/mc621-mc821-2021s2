@@ -1,0 +1,3 @@
+jolteon
+leafeon
+flareon
